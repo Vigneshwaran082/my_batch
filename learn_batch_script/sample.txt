@@ -1,0 +1,16 @@
+ Volume in drive C is OS
+ Volume Serial Number is 62A9-1B2A
+
+ Directory of C:\Users\vigkanda\Work_Place\Software\my_batch
+
+10/13/2017  07:24 PM    <DIR>          .
+10/13/2017  07:24 PM    <DIR>          ..
+10/13/2017  07:24 PM               162 cp.bat
+10/13/2017  03:57 PM                27 home.bat
+10/13/2017  07:19 PM    <DIR>          learn_batch_script
+10/11/2017  07:12 PM                17 ls.bat
+10/13/2017  07:22 PM                75 mv.bat
+10/11/2017  05:55 PM                16 pwd.bat
+10/13/2017  07:24 PM                 0 sample.txt
+               6 File(s)            297 bytes
+               3 Dir(s)  134,407,974,912 bytes free
